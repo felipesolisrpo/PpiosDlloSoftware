@@ -1,0 +1,24 @@
+Fecha y hora: 20/04/2023 21:47:06
+Duración del sueño: 0 horas
+Edad: 18 años
+Tiempo para dormirse: 31 minutos
+Hizo ejercicio antes de dormir: si
+Consumió cafeína antes de dormir: 201 mg
+--------------------------------------------------
+
+Fecha y hora: 20/04/2023 21:51:42
+Duración del sueño: 0 horas
+Edad: 18 años
+Tiempo para dormirse: 31 minutos
+Hizo ejercicio antes de dormir: si
+Consumió cafeína antes de dormir: 100 mg
+--------------------------------------------------
+
+Fecha y hora: 20/04/2023 22:00:51
+Duración del sueño: 0 horas
+Edad: 15 años
+Tiempo para dormirse: 3 minutos
+Hizo ejercicio antes de dormir: no
+Consumió cafeína antes de dormir: 0 mg
+--------------------------------------------------
+
